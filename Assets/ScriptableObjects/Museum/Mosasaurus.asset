@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: Mosasaurus
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 52e6eff4a3554e240bace97743d5b4ef, type: 3}
+  prefab: {fileID: 625747693321379035, guid: 730dd0d36d3a89b43a166c0f24637bde, type: 3}
+  text: "Mosasaurus, sucul pullular\u0131n soyu t\xFCkenmi\u015F bir grubu olan mosasaurlar\u0131n
+    tip cinsidir. Bundan yakla\u015F\u0131k 82 ila 66 milyon y\u0131l \xF6ncesine
+    tekab\xFCl eden Ge\xE7 Kretase'nin Kampaniyen ve Maastrihtiyen d\xF6nemlerinde
+    ya\u015Fam\u0131\u015Ft\u0131r. En eski fosilleri 1700 y\u0131llarda Hollanda'n\u0131n
+    Maastricht kenti yak\u0131nlar\u0131ndaki bir tebe\u015Fir oca\u011F\u0131nda
+    bulunmu\u015Ftur. Bu fosillerin ba\u015Flarda bir timsaha veya balinaya ait oldu\u011Fu
+    d\xFC\u015F\xFCn\xFCl\xFCyordu."

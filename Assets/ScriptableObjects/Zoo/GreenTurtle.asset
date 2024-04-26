@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: GreenTurtle
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 07acfcdfb663b424683960122aff5618, type: 3}
+  prefab: {fileID: 4644238212812684142, guid: f37ee08407d73ae448f60d263e7543bf, type: 3}
+  text: "Chelonia mydas, Chelonia cinsi i\xE7indeki tek t\xFCr olan bir deniz kaplumba\u011Fas\u0131d\u0131r.
+    200 kg a\u011F\u0131rl\u0131\u011Fa, 1-1,5 metre uzunlu\u011Fa eri\u015Febilir
+    ve bu \xF6l\xE7\xFClerle, sert kabuklu kaplumba\u011Falar i\xE7inde en b\xFCy\xFCk
+    oland\u0131r. Tropik, tropik alt\u0131 ve baz\u0131 daha \u0131l\u0131man denizlerde
+    da\u011F\u0131l\u0131m g\xF6steren t\xFCr, eri\u015Fkin bireylerin alglerden
+    zengin beslenmesine ba\u011Fl\u0131 olarak bedenlerindeki ya\u011F dokusu ye\u015Fil
+    renk al\u0131r."

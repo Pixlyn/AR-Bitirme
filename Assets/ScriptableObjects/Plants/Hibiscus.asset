@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: Hibiscus
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 73d100fe6af19de489975d0e2321b614, type: 3}
+  prefab: {fileID: 5351748621158442936, guid: 602d8ccef2e3d60409759b1d299b5543, type: 3}
+  text: "Hibiscus, yapraklar\u0131 olan alternatif bir \xE7i\xE7ektir. Genellikle
+    bir di\u015Fli veya loblu marj\u0131 ile m\u0131zrak ve ovat \u015Feklindedir.
+    \xC7i\xE7ekler be\u015F veya daha fazla olan, b\xFCy\xFCk, g\xF6ze \xE7arpan,
+    trompet \u015Feklindedir yapraklar\u0131, beyaz, k\u0131rm\u0131z\u0131, turuncu,
+    mor ve sar\u0131d\u0131r, 4\u201318 cm geni\u015Fliktedir. Pembe renkli olanlar
+    gibi baz\u0131 t\xFCrlerde \xE7i\xE7ek rengi, H. mutabilis ve H. tiliaceus, ya\u015Fla
+    birlikte de\u011Fi\u015Fir. Meyve kuru ve loblu olan kaps\xFCl i\xE7eren tohumlard\u0131r.
+    T\xFCrk\xE7ede hatmi \xE7i\xE7e\u011Fi veya amber \xE7i\xE7e\u011Fi olarak da
+    bilinmektedir.  "

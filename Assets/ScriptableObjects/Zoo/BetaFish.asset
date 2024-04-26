@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: BetaFish
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: eafd7ec16b5009b4bacfcd9f785cb3f4, type: 3}
+  prefab: {fileID: 8550673417090017946, guid: 1325582dfb4a4a94090dccd5893ac2bf, type: 3}
+  text: "Kavgac\u0131 siyam bal\u0131\u011F\u0131 veya Betta splendens t\xFCm d\xFCnyada
+    en pop\xFCler akvaryum bal\u0131klar\u0131ndan biridir. Beta Bal\u0131klar\u0131
+    labirent bal\u0131klar\u0131n\u0131n alt tak\u0131m\u0131na dahildirler. Labirent
+    ad\u0131 verilen \xF6zel bir solunum organ\u0131n\u0131n varl\u0131\u011F\u0131
+    bu bal\u0131klar\u0131n \xF6zelli\u011Fidir. Bu organ, kan damarlar\u0131yla
+    yo\u011Fun bir \u015Fekilde n\xFCfuz eden plakalarla temsil edilir ve y\xFCzge\xE7
+    \xFCzerindeki sin\xFCs d\xFCzleminde bulunur. Betalar bunun sayesinde, nefes
+    almak i\xE7in atmosferik havay\u0131 kullanabilir. B\xF6yle bir solunum t\xFCr\xFC
+    akvaryum Betalar\u0131 i\xE7in hayati \xF6nem ta\u015F\u0131r, bu nedenle oksijenle
+    doymu\u015F olsa bile kapal\u0131 bir kapta tutmak bal\u0131klar\u0131n \xF6l\xFCm\xFCne
+    yol a\xE7ar. Labirent, Betalarda, oksijen a\xE7\u0131s\u0131ndan fakir olan su
+    k\xFCtlelerinde ya\u015Famalar\u0131n\u0131 sa\u011Flayan bir adaptasyon olarak
+    ortaya \xE7\u0131km\u0131\u015Ft\u0131r."

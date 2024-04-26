@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: Spinosaurus
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: d8fe1e66937f78544aa484a95249ed44, type: 3}
+  prefab: {fileID: 2066944880510471040, guid: 13f8f553df58a144a92634036d001bbe, type: 3}
+  text: "Spinosaurus, g\xFCn\xFCm\xFCzden 99 ila 93.5 milyon y\u0131l \xF6nce Kuzey
+    Afrika'da ya\u015Fam\u0131\u015F bir teropod dinozor cinsi. Alman paleontolog
+    Ernst Stromer taraf\u0131ndan tan\u0131mlanan bu cins ilk olarak 1910'larda M\u0131s\u0131r'da
+    ke\u015Ffedilen kal\u0131nt\u0131lardan bilinir. Spinosaurus'un omurgas\u0131ndan
+    d\u0131\u015Far\u0131ya do\u011Fru geni\u015Flemi\u015F olan 2 metreye kadar
+    eri\u015Febilen uzun ay\u0131rt edici \xE7\u0131k\u0131nt\u0131lar\u0131 bulunur.
+    Baz\u0131 yazarlar\u0131n bunun kaslarla kapl\u0131 kambur veya kabart\u0131
+    \u015Feklinde oldu\u011Funu \xF6ne s\xFCrmesine ra\u011Fmen muhtemelen yelkenli
+    \u015Feklindeki bu \xE7\u0131k\u0131nt\u0131lar deri ile birbirlerine ba\u011Fl\u0131yd\u0131lar.
+    Bu yap\u0131 i\xE7in termoreg\xFClasyon ve g\xF6steri\u015F de dahil \xE7ok y\xF6nl\xFC
+    i\u015Flevler \xF6ne s\xFCr\xFCld\xFC."

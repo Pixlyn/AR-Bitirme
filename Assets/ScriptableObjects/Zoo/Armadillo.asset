@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: Armadillo
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: b8cad38a4ebc815438e5fd992b4a896f, type: 3}
+  prefab: {fileID: 1823193263117372394, guid: 2969ac4350dd96d4488562bc51b8aabc, type: 3}
+  text: "Armadillolar, Cingulata tak\u0131m\u0131nda Yeni D\xFCnya plasental memelileridir.
+    Chlamyphoridae ve Dasypodidae, kar\u0131ncayiyenler ve tembel hayvanlarla birlikte
+    Xenarthra \xFCst tak\u0131m\u0131n\u0131n bir par\xE7as\u0131 olan tak\u0131m\u0131n
+    hayatta kalan tek familyalar\u0131d\u0131r. Dokuz soyu t\xFCkenmi\u015F cins
+    ve 21 mevcut armadillo t\xFCr\xFC olmu\u015Ftur. Baz\u0131lar\u0131 z\u0131rhlar\u0131ndaki
+    bant say\u0131s\u0131 ile ay\u0131rt edilir. T\xFCm t\xFCrler, \xE7e\u015Fitli
+    farkl\u0131 ortamlarda ya\u015Fad\u0131klar\u0131 Amerika k\u0131tas\u0131na
+    \xF6zg\xFCd\xFCr. Armadillolar, k\xF6sele gibi bir z\u0131rh kabu\u011Funa ve
+    kazmak i\xE7in uzun, keskin pen\xE7elere sahiptir. K\u0131sa bacaklar\u0131 vard\u0131r
+    ama olduk\xE7a h\u0131zl\u0131 hareket edebilir. Bir armadillonun ortalama uzunlu\u011Fu,
+    kuyru\u011Fu dahil yakla\u015F\u0131k 75 cm'dir.Dev armadillolar 150 cm'ye ve
+    54 kg'ye kadar \xE7\u0131kabilirken, pembe peri armadillo'nun uzunlu\u011Fu sadece
+    13-15 cm'dir. Bir avc\u0131 taraf\u0131ndan tehdit edildi\u011Finde, Tolypeutes
+    t\xFCrleri s\u0131kl\u0131kla top \u015Feklini al\u0131r, bunu yapabilen tek
+    armadillo t\xFCr\xFCd\xFCr."

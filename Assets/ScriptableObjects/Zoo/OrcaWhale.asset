@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: OrcaWhale
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 4d4bbdfc2f42a844e8ee8e5afe30d821, type: 3}
+  prefab: {fileID: 6579110783337973237, guid: 608ec3cd6bffc2d42805d769d8f05fe4, type: 3}
+  text: "Katil balina, Orka olarak da bilinir, okyanus yunuslar\u0131 ailesinin en
+    iri \xFCyesidir. Yay\u0131l\u0131m geni\u015Fli\u011Fi olarak d\xFCnyada en yayg\u0131n
+    ikinci memelidir (insanlardan sonra) ve t\xFCm okyanuslarda bulunur. \xC7ok y\xF6nl\xFC
+    bir y\u0131rt\u0131c\u0131d\u0131r ve bal\u0131k, deniz kaplumba\u011Fas\u0131,
+    ku\u015F, fok, k\xF6pek bal\u0131klar\u0131 ve hatta di\u011Fer gen\xE7 ve k\xFC\xE7\xFCk
+    yunuslar\u0131 yer. Bu \u015Fekilde deniz besin zincirinin en \xFCst noktas\u0131ndad\u0131r.
+    Katil balina ayr\u0131ca di\u011Fer balinalara \xF6zellikle gri balinalara da
+    sald\u0131r\u0131r."

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: Orchid
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 8f16a7d47ab194d4199ab9c72f285f6e, type: 3}
+  prefab: {fileID: 5520455806389693661, guid: 3b2244f10ded32844ba18983023ef23f, type: 3}
+  text: "Orkideler, Orchidaceae familyas\u0131na ait, \xE7i\xE7ek a\xE7an, genellikle
+    renkli ve ho\u015F kokulu, \xE7e\u015Fitli ve yayg\u0131n bir \xE7i\xE7ekli bitki
+    grubu olan bitkilerdir. Asteraceae ile birlikte, \xE7i\xE7ekli bitkilerin en
+    b\xFCy\xFCk iki familyas\u0131ndan biridir. Orchidaceae, yakla\u015F\u0131k 763
+    cinse da\u011F\u0131lm\u0131\u015F, \u015Fu anda kabul edilen yakla\u015F\u0131k
+    28.000 t\xFCre sahiptir. Hangi ailenin daha b\xFCy\xFCk oldu\u011Funun belirlenmesi
+    h\xE2l\xE2 tart\u0131\u015F\u0131l\u0131yor \xE7\xFCnk\xFC b\xF6ylesine b\xFCy\xFCk
+    ailelerin \xFCyelerine ili\u015Fkin do\u011Frulanm\u0131\u015F veriler s\xFCrekli
+    de\u011Fi\u015Fiyor. Ne olursa olsun, orkide t\xFCrlerinin say\u0131s\u0131 neredeyse
+    kemikli bal\u0131klar\u0131n say\u0131s\u0131na e\u015Fit, ku\u015F t\xFCrlerinin
+    say\u0131s\u0131n\u0131n iki kat\u0131ndan fazla ve memeli t\xFCrlerinin yakla\u015F\u0131k
+    d\xF6rt kat\u0131 kadard\u0131r."

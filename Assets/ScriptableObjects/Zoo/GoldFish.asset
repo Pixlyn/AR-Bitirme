@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: GoldFish
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 6953ea7834b65a44b8f67379348b287d, type: 3}
+  prefab: {fileID: 3531347886630290166, guid: 4a2bd8c59f0246846b999c0c45be5277, type: 3}
+  text: "Japon bal\u0131\u011F\u0131, Cypriniformes tak\u0131m\u0131n\u0131n Cyprinidae
+    familyas\u0131ndan bir tatl\u0131 su bal\u0131\u011F\u0131d\u0131r. Genellikle
+    kapal\u0131 akvaryumlarda evcil hayvan olarak tutulur ve en pop\xFCler akvaryum
+    bal\u0131klar\u0131ndan biridir. Vah\u015Fi do\u011Faya sal\u0131nan Japon bal\u0131\u011F\u0131,
+    Kuzey Amerika'n\u0131n baz\u0131 b\xF6lgelerinde istilac\u0131 bir ha\u015Fere
+    haline geldi. Do\u011Fu Asya'ya \xF6zg\xFC olan japon bal\u0131\u011F\u0131,
+    sazan ailesinin nispeten k\xFC\xE7\xFCk bir \xFCyesidir. \u0130lk olarak 1000
+    y\u0131ldan daha uzun bir s\xFCre \xF6nce imparatorluk \xC7in'inde renk i\xE7in
+    se\xE7ici olarak yeti\u015Ftirildi ve o zamandan beri birka\xE7 farkl\u0131 t\xFCr
+    geli\u015Ftirildi. Japon bal\u0131\u011F\u0131 \u0131rklar\u0131 boyut, v\xFCcut
+    \u015Fekli, y\xFCzge\xE7 konfig\xFCrasyonu ve renklendirme bak\u0131m\u0131ndan
+    b\xFCy\xFCk farkl\u0131l\u0131klar g\xF6sterir (beyaz, sar\u0131, turuncu, k\u0131rm\u0131z\u0131,
+    kahverengi ve siyah\u0131n \xE7e\u015Fitli kombinasyonlar\u0131 bilinmektedir)."

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: Sunflower
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: da904b91fe5d6af40ba2a938104b44c0, type: 3}
+  prefab: {fileID: 8705124150915015828, guid: ad87a8f43a3c5704f91bd13f9234d71c, type: 3}
+  text: "Ay\xE7i\xE7e\u011Fi (Helianthus annuus), yenilebilir ya\u011Fl\u0131 tohumlar\u0131
+    i\xE7in bir \xFCr\xFCn olarak yeti\u015Ftirilen Helianthus cinsinin b\xFCy\xFCk
+    bir y\u0131ll\u0131k bitkisidir. Yemeklik ya\u011F \xFCretiminin yan\u0131 s\u0131ra
+    hayvan yemi (k\xFCspe veya silaj bitkisi olarak), ku\u015F yemi, baz\u0131 end\xFCstriyel
+    uygulamalarda ve ev bah\xE7elerinde s\xFCs bitkisi olarak da kullan\u0131l\u0131r.
+    Yabani H. annuus, bir\xE7ok \xE7i\xE7ek ba\u015Fl\u0131\u011F\u0131na sahip,
+    geni\u015F dallara sahip tek y\u0131ll\u0131k bir bitkidir. Bununla birlikte,
+    evcil ay\xE7i\xE7e\u011Fi genellikle dallanmam\u0131\u015F bir g\xF6vdenin \xFCzerinde
+    yaln\u0131zca tek bir b\xFCy\xFCk \xE7i\xE7ek salk\u0131m\u0131na (\xE7i\xE7ek
+    ba\u015F\u0131) sahiptir."

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: Ankylosaurus
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 96b3cd45b9942fc42bc540f97f89b8f8, type: 3}
+  prefab: {fileID: 652694979459522363, guid: e88018abf471f7746ba0aef7e8500b85, type: 3}
+  text: "Ankylosaurus, dinazor ailesinin en b\xFCy\xFCk bitki yiyen ot\xE7ul dinazorudur.
+    Bu aileye ait dinazorlar\u0131n k\u0131sa, a\u011F\u0131r bedenleri vard\u0131r
+    ve ba\u015F\u0131ndan kuyru\u011Funa kadar kemikli plakalar ve sivri \xE7ivilere
+    sahiptir. Bu plakalar ve \xE7iviler etobur olan di\u011Fer canl\u0131lara kar\u015F\u0131
+    korunmas\u0131 i\xE7in z\u0131rh g\xF6revi g\xF6rmektedir. Ba\u015F\u0131ndaki
+    ve v\xFCcudundaki \xE7iviler, bir y\u0131rt\u0131c\u0131 hayvan\u0131n di\u015Flerini
+    k\u0131rabilecek kadar g\xFC\xE7l\xFCyd\xFC. Ankylosauruslar\u0131n ayr\u0131ca
+    ucunda kemikli bir sopa bulunan ve sald\u0131rganlara g\xFC\xE7l\xFC bir \u015Fekilde
+    savurabilece\u011Fi devasa bir kuyru\u011Fu vard\u0131. Ankylosauruslar yakla\u015F\u0131k
+    6 m (20 ft) uzunlu\u011Fundayd\u0131 ve bir gergedan\u0131n iki kat\u0131 a\u011F\u0131rl\u0131\u011F\u0131ndayd\u0131."

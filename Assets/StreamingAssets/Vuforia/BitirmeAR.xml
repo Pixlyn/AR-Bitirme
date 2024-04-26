@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tyrannosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="Triceratops" size="1.000000 1.000000" />
+    <ImageTarget name="Stygimoloch" size="1.000000 1.000000" />
+    <ImageTarget name="Stegosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="Spinosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="Pteradactyl" size="1.000000 1.000000" />
+    <ImageTarget name="Parasourolophus" size="1.000000 1.000000" />
+    <ImageTarget name="Mosasaurus" size="1.000000 1.000000" />
+    <ImageTarget name="Velociraptor" size="1.000000 1.000000" />
+    <ImageTarget name="Ankylosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="Sunflower" size="1.000000 1.000000" />
+    <ImageTarget name="Chrysanthemum" size="1.000000 1.000000" />
+    <ImageTarget name="Bamboo" size="1.000000 1.000000" />
+    <ImageTarget name="BellisPerennis" size="1.000000 1.000000" />
+    <ImageTarget name="Hibiscus" size="1.000000 1.000000" />
+    <ImageTarget name="Orchid" size="1.000000 1.000000" />
+    <ImageTarget name="RedRose" size="1.000000 1.000000" />
+    <ImageTarget name="SakuraBlossom" size="1.000000 1.000000" />
+    <ImageTarget name="AnemoneHybrida" size="1.000000 1.000000" />
+    <ImageTarget name="Snake" size="1.000000 1.000000" />
+    <ImageTarget name="Bear" size="1.000000 1.000000" />
+    <ImageTarget name="FiddlerCrab" size="1.000000 1.000000" />
+    <ImageTarget name="Raccoon" size="1.000000 1.000000" />
+    <ImageTarget name="GreenTurtle" size="1.000000 1.000000" />
+    <ImageTarget name="Giraffe" size="1.000000 1.000000" />
+    <ImageTarget name="BettaFish" size="1.000000 1.000000" />
+    <ImageTarget name="GoldFish" size="1.000000 1.000000" />
+    <ImageTarget name="Armadillo" size="1.000000 1.000000" />
+    <ImageTarget name="WhaleKode" size="1.000000 1.000000" />
+    <ImageTarget name="TacliDagLalesiKod" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

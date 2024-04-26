@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: Raccoon
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 0b8c8c7e8a3a5764ab71b217f6092625, type: 3}
+  prefab: {fileID: 511035571638606505, guid: fe6d2b25268cb064780536475fe750db, type: 3}
+  text: "Rakun, Kuzey Amerika'ya \xF6zg\xFC bir memelidir. V\xFCcut uzunlu\u011Fu
+    40 ila 70 cm ve v\xFCcut a\u011F\u0131rl\u0131\u011F\u0131 5 ila 26 kg olan procyonid
+    ailesinin en b\xFCy\xFC\u011F\xFCd\xFCr. Grimsi k\xFCrk\xFC \xE7o\u011Funlukla,
+    onu so\u011Fuk havaya kar\u015F\u0131 yal\u0131tan yo\u011Fun alt k\xFCrkten
+    olu\u015Fur. Rakunun en ay\u0131rt edici \xF6zelliklerinden \xFC\xE7\xFC, Amerika'n\u0131n
+    yerli halklar\u0131n\u0131n hayvanla ilgili mitolojilerinde temalar olan son
+    derece becerikli \xF6n pen\xE7eleri, y\xFCz maskesi ve halkal\u0131 kuyru\u011Fudur.
+    Ara\u015Ft\u0131rmalar, g\xF6revlerin \xE7\xF6z\xFCm\xFCn\xFC en az \xFC\xE7
+    y\u0131l boyunca hat\u0131rlayabildi\u011Fini g\xF6sterdi\u011Finden, rakun zekas\u0131yla
+    dikkat \xE7ekiyor. Genellikle gece ve omnivordur, yakla\u015F\u0131k %40 omurgas\u0131z,
+    %33 bitki ve %27 omurgal\u0131 yer."

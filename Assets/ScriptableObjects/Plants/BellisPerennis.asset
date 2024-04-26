@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: BellisPerennis
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 2e9398ed79b405445876852bbf453b19, type: 3}
+  prefab: {fileID: 8477052345800719777, guid: 914dd171aa519924f8ebe95d454539aa, type: 3}
+  text: "15 cm b\xFCy\xFCyebilir. Yapraklar 2 ila 5 cm uzunlu\u011Funda, t\xFCyl\xFC,
+    daima ye\u015Fil, dairesel ya da ka\u015F\u0131k bi\xE7imlidir. Bunlar rozet
+    halinde yere yat\u0131kt\u0131r. Taban yapraklar sapl\u0131d\u0131r. Uzun beyaz
+    dilsi \xE7i\xE7ekler genellikle k\u0131rm\u0131z\u0131 u\xE7ludur. G\xF6vde genelde
+    yapraks\u0131zd\u0131r. Rizomlar k\u0131sa ve yay\u0131lm\u0131\u015F haldedir.
+    Tohumlar may\u0131s ile kas\u0131m aylar\u0131nda olgunla\u015F\u0131r. Tohumlar
+    haziran ay\u0131nda do\u011Frudan d\u0131\u015Far\u0131 ekilebilir. -35 dereceye
+    kadar dayan\u0131kl\u0131d\u0131r.B\xFCz\xFCc\xFC \xF6zelli\u011Fi vard\u0131r.
+    Geleneksel olarak gastrointestinal ve solunum yollar\u0131n\u0131n rahats\u0131zl\u0131klar\u0131n\u0131n
+    tedavisinde \xE7ay olarak kullan\u0131lm\u0131\u015Ft\u0131r. Yaralar\u0131n
+    tedavisinde kullan\u0131l\u0131r. Yat\u0131\u015Ft\u0131r\u0131c\u0131, spazm
+    \xE7\xF6z\xFCc\xFC, \xF6ks\xFCr\xFCk giderici, sindirimi kolayla\u015Ft\u0131r\u0131c\u0131,
+    yumu\u015Fat\u0131c\u0131, balgam s\xF6kt\xFCr\xFCc\xFC, m\xFCshil, g\xF6z ilac\u0131
+    ve toniktir. \xC7i\xE7ek ba\u015Flar\u0131 kaynat\u0131larak; bo\u011Faz a\u011Fr\u0131s\u0131,
+    kar\u0131n a\u011Fr\u0131s\u0131, \xF6ks\xFCr\xFCk ve so\u011Fuk alg\u0131nl\u0131\u011F\u0131
+    tedavisinde kullan\u0131l\u0131r."

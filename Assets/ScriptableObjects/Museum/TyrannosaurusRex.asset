@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: TyrannosaurusRex
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 64e1eafbe956ee042a9a2a11bcb8c68a, type: 3}
+  prefab: {fileID: 6715454025025546411, guid: b1c6a0051eeeaab48b2b1997818a98fb, type: 3}
+  text: "Tyrannosaurus, Kretase'nin sonlar\u0131nda ya\u015Fam\u0131\u015F, b\xFCy\xFCk
+    bir et\xE7il teropod dinozor cinsi. Tyrannosaurus, di\u011Fer tyrannosauridlerden
+    \xE7ok daha geni\u015F bir da\u011F\u0131l\u0131ma sahipti ve bulundu\u011Fu
+    ya\u015Fam alan\u0131ndaki et\xE7illerin en b\xFCy\xFC\u011F\xFCyd\xFC. K\u0131saca
+    T. rex veya pop\xFCler k\xFClt\xFCrde T-Rex olarak bilinen ve Latince \"zorba
+    kertenkelelerin kral\u0131\" anlam\u0131na gelen Tyrannosaurus rex, cinsin tip
+    t\xFCr\xFC olup ayn\u0131 zamanda, Spinosaurus ve Giganotosaurus ile birlikte
+    en b\xFCy\xFCk teropodlardan biriydi. T. rex, g\xFC\xE7l\xFC arka ayaklar\u0131
+    \xFCzerinde y\xFCr\xFCyen, son \xE7al\u0131\u015Fmalar \u0131\u015F\u0131\u011F\u0131nda
+    e\u011Fik bir g\xF6vde durumunda duran ve kuyru\u011Fu ile dengesini sa\u011Flayan;
+    uzunlu\u011Fu 12 metreyi, dik durdu\u011Funda boyu 4 metreyi ge\xE7en; yeti\u015Fkinlikte
+    4 ile 6 ton a\u011F\u0131rl\u0131\u011F\u0131nda olan, b\xFCy\xFCk bir kara hayvan\u0131yd\u0131.
+    Bu cinsin \xFCyeleri Kuzey Amerika ve muhtemelen Asya'da ya\u015Fam\u0131\u015Ft\u0131r."

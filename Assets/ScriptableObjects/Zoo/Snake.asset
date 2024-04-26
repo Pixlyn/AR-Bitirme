@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: Snake
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: d3b82584d0247d643b08788b0396b047, type: 3}
+  prefab: {fileID: 927660708682339467, guid: e6cb9b45d31bf014690e281ad72d92e3, type: 3}
+  text: "Serpentes alt tak\u0131m\u0131n\u0131n \xFCyeleri, ayaks\u0131z kertenkelelerden
+    d\u0131\u015F kulaklar\u0131n ve g\xF6z kapaklar\u0131n\u0131n olmay\u0131\u015F\u0131
+    ile ayr\u0131l\u0131rlar. B\xFCt\xFCn pullular gibi y\u0131lanlar da, g\xF6vde
+    \xFCst \xFCste binen pullarla kapl\u0131 ektotermik amniyot kesitleridir. \xC7o\u011Fu
+    y\u0131lan t\xFCr\xFC, atalar\u0131 olan kertenkelelerinkinden \xE7ok daha fazla
+    eklemleri olan bir kafaya sahiptir. Bu y\u0131lanlara son derece hareketli \xE7eneleriyle
+    kendi y\xFCzeyinden daha b\xFCy\xFCk avlar\u0131 yutma imk\xE2n\u0131 verir.
+    Dar v\xFCcutlar\u0131na uygun bir \u015Fekilde yerle\u015Febilmesi i\xE7in y\u0131lanlar\u0131n
+    \xE7ift organlar\u0131 yan yana yerine birinin di\u011Ferinin \xFCst\xFCnde g\xF6r\xFCn\xFCr
+    ve \xE7o\u011Fu bir tane i\u015Flevsel yap\u0131ya sahiptir. Baz\u0131 t\xFCrler,
+    kloak\u0131n her iki liman\u0131nda artakalan bir \xE7ift yay\u0131lmayla birlikte
+    pelvik kemere sahiptir."

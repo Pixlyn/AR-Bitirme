@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: AnemoneHybrida
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 8f696c3f2b53060448cfdb62f7a5a953, type: 3}
+  prefab: {fileID: 6683558216955174024, guid: 41ef3f64dc11471419ea9ade04c7d542, type: 3}
+  text: "Anemone Hybrida 2-3 inc (5-7 cm) geni\u015Fli\u011Finde, saf beyaz \xE7i\xE7ekler
+    sergileyen, kontrast olu\u015Fturan sar\u0131 stamenlere sahip, ho\u015F ve kompakt
+    bir Japon Anemon hibrit \xE7e\u015Fitidir. Esintiyle sallanarak dans eden koyu
+    ye\u015Fil yapraklar\u0131n\u0131n ve s\u0131r\u0131m gibi g\xF6vdeler \xFCzerinde
+    zarif bir \u015Fekilde ta\u015F\u0131n\u0131rlar. Az bak\u0131m gerektiren ve
+    iyi huylu olan bu bah\xE7e favorisi 1858 y\u0131l\u0131nda Verdun'da (Fransa)
+    ke\u015Ffedildi."

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: RedRose
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 0f186e6929ad11748b7078fbee931242, type: 3}
+  prefab: {fileID: 739159955996556768, guid: 11009fab5ec54e447984aceb30800c48, type: 3}
+  text: "G\xFCl, Rosaceae familyas\u0131ndaki Rosa cinsinin odunsu \xE7ok y\u0131ll\u0131k
+    \xE7i\xE7ekli bir bitkisi veya ta\u015F\u0131d\u0131\u011F\u0131 \xE7i\xE7ektir.
+    \xDC\xE7 y\xFCzden fazla t\xFCr ve on binlerce \xE7e\u015Fit var. Genellikle
+    keskin dikenlerle donanm\u0131\u015F saplar\u0131 olan, \xE7al\u0131lar dikebilen,
+    t\u0131rmanabilen veya s\xFCr\xFCklenebilen bir bitki grubu olu\u015Ftururlar.
+    \xC7i\xE7eklerinin boyutu ve \u015Fekli de\u011Fi\u015Fir ve genellikle beyazdan
+    sar\u0131ya ve k\u0131rm\u0131z\u0131ya kadar de\u011Fi\u015Fen renklerde b\xFCy\xFCk
+    ve g\xF6steri\u015Flidir. \xC7o\u011Fu t\xFCr\xFCn anavatan\u0131 Asya'd\u0131r,
+    daha k\xFC\xE7\xFCk say\u0131lar\u0131 ise Avrupa, Kuzey Amerika ve KB Afrika'ya
+    \xF6zg\xFCd\xFCr. T\xFCrler, k\xFCltivarlar ve melezler, g\xFCzellikleri i\xE7in
+    yayg\u0131n olarak yeti\u015Ftirilir ve genellikle kokuludur. G\xFCller bir\xE7ok
+    toplumda k\xFClt\xFCrel \xF6nem kazanm\u0131\u015Ft\u0131r. G\xFCl bitkilerinin
+    boyutlar\u0131 kompakt, minyat\xFCr g\xFCllerden yedi metre y\xFCksekli\u011Fe
+    ula\u015Fabilen da\u011Fc\u0131lara kadar de\u011Fi\u015Fir. Farkl\u0131 t\xFCrler
+    kolayca melezle\u015Fir ve bu, \xE7ok \xE7e\u015Fitli bah\xE7e g\xFCllerinin
+    geli\u015Ftirilmesinde kullan\u0131lm\u0131\u015Ft\u0131r."

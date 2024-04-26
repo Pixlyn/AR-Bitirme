@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa1bf716b1ab95429029b2d6f02b60a, type: 3}
+  m_Name: Stegosaur
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 640262f36484e5d4db465584b6740741, type: 3}
+  prefab: {fileID: 1683107633974648567, guid: 47a4997cbf1e0df4280b6affaac5da1e, type: 3}
+  text: "Stegosaurus, s\u0131rt\u0131 boyunca uzanan b\xFCy\xFCk, elmas \u015Feklindeki
+    kemikli plaka s\u0131ralar\u0131yla \xFCnl\xFCd\xFCr. Stegosaurus Ge\xE7 Jura
+    D\xF6nemi\u2019nde ya\u015Fam\u0131\u015F en b\xFCy\xFCk dinazor grubunun \xFCyelerinden
+    biriydi. Bu devasa bitki yiyicilerin arka plakalar\u0131n\u0131n yan\u0131 s\u0131ra
+    kuyruklar\u0131n\u0131n ucunda uzun sivri \xE7iviler bulunmaktayd\u0131. Kuyruk
+    \xE7ivileri Stegosaurus\u2019un kendini savunmas\u0131na yard\u0131mc\u0131 olurken,
+    s\u0131rt\u0131nda bulunan plakalar z\u0131rh olarak kullan\u0131lmazd\u0131.
+    Bilim adamlar\u0131, s\u0131rt\u0131ndaki bulunan plakalar\u0131n rakipleriyle
+    b\xF6lge i\xE7in rekabet ederken veya di\u015Fileri \xE7ekmek i\xE7in daha etkileyici
+    g\xF6r\xFCnmesini sa\u011Flamak i\xE7in kullan\u0131ld\u0131\u011F\u0131n\u0131
+    d\xFC\u015F\xFCnmektedir. Stegosaurus, herhangi bir dinazora k\u0131yasla b\xFCy\xFCk
+    olmas\u0131na ra\u011Fmen en k\xFC\xE7\xFCk beyine sahip olan t\xFCrd\xFC. Beyninin
+    b\xFCy\xFCkl\xFC\u011F\xFC yaln\u0131zca bir koyun beyninin yar\u0131s\u0131
+    kadar b\xFCy\xFCkl\xFCkteydi."
